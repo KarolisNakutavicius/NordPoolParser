@@ -14,6 +14,7 @@ var responseMessage = await result.Content.ReadAsStringAsync();
 
 var obj = Newtonsoft.Json.JsonConvert.DeserializeObject<NordPoolResponse>(responseMessage);
 
+
 Console.WriteLine();
 
 
