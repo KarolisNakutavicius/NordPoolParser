@@ -1,0 +1,17 @@
+C:\Users\karol\RiderProjects\NordPoolParser\NordPoolParser\bin\Debug\net6.0\NordPoolParser.exe
+C:\Users\karol\RiderProjects\NordPoolParser\NordPoolParser\bin\Debug\net6.0\NordPoolParser.deps.json
+C:\Users\karol\RiderProjects\NordPoolParser\NordPoolParser\bin\Debug\net6.0\NordPoolParser.runtimeconfig.json
+C:\Users\karol\RiderProjects\NordPoolParser\NordPoolParser\bin\Debug\net6.0\NordPoolParser.dll
+C:\Users\karol\RiderProjects\NordPoolParser\NordPoolParser\bin\Debug\net6.0\NordPoolParser.pdb
+C:\Users\karol\RiderProjects\NordPoolParser\NordPoolParser\obj\Debug\net6.0\NordPoolParser.csproj.AssemblyReference.cache
+C:\Users\karol\RiderProjects\NordPoolParser\NordPoolParser\obj\Debug\net6.0\NordPoolParser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karol\RiderProjects\NordPoolParser\NordPoolParser\obj\Debug\net6.0\NordPoolParser.AssemblyInfoInputs.cache
+C:\Users\karol\RiderProjects\NordPoolParser\NordPoolParser\obj\Debug\net6.0\NordPoolParser.AssemblyInfo.cs
+C:\Users\karol\RiderProjects\NordPoolParser\NordPoolParser\obj\Debug\net6.0\NordPoolParser.csproj.CoreCompileInputs.cache
+C:\Users\karol\RiderProjects\NordPoolParser\NordPoolParser\obj\Debug\net6.0\NordPoolParser.dll
+C:\Users\karol\RiderProjects\NordPoolParser\NordPoolParser\obj\Debug\net6.0\refint\NordPoolParser.dll
+C:\Users\karol\RiderProjects\NordPoolParser\NordPoolParser\obj\Debug\net6.0\NordPoolParser.pdb
+C:\Users\karol\RiderProjects\NordPoolParser\NordPoolParser\obj\Debug\net6.0\NordPoolParser.genruntimeconfig.cache
+C:\Users\karol\RiderProjects\NordPoolParser\NordPoolParser\obj\Debug\net6.0\ref\NordPoolParser.dll
+C:\Users\karol\RiderProjects\NordPoolParser\NordPoolParser\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\karol\RiderProjects\NordPoolParser\NordPoolParser\obj\Debug\net6.0\NordPoolParser.csproj.CopyComplete
