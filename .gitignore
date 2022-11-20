@@ -1,3 +1,5 @@
 .idea/
 /NordPoolParser/bin/
 /NordPoolParser/obj/
+/CsvElectricityPriceParser/bin/
+/CsvElectricityPriceParser/obj/
