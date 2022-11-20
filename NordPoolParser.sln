@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NordPoolParser", "NordPoolParser\NordPoolParser.csproj", "{80874974-6691-49E6-A00B-039D0E6DA14C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsvElectricityPriceParser", "CsvElectricityPriceParser\CsvElectricityPriceParser.csproj", "{5D346D06-42F3-4662-B177-59E9CABB943A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{80874974-6691-49E6-A00B-039D0E6DA14C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{80874974-6691-49E6-A00B-039D0E6DA14C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{80874974-6691-49E6-A00B-039D0E6DA14C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D346D06-42F3-4662-B177-59E9CABB943A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D346D06-42F3-4662-B177-59E9CABB943A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D346D06-42F3-4662-B177-59E9CABB943A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D346D06-42F3-4662-B177-59E9CABB943A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

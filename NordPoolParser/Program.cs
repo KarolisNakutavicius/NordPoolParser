@@ -8,7 +8,7 @@ var client = new HttpClient();
 client.BaseAddress = new Uri("https://www.nordpoolgroup.com");
 
 await CreateTrainingCsv();
-await CreateTestCsv();
+//await CreateTestCsv();
 
 Console.WriteLine();
 
@@ -27,8 +27,8 @@ async Task CreateTrainingCsv()
 {
     Console.WriteLine("CREATING TRAINING DATA");
     
-    var startingDate = new DateTime(2021, 1, 1);
-    var endDate = new DateTime(2021, 12, 31);
+    var startingDate = new DateTime(2022, 1, 1);
+    var endDate = new DateTime(2022, 11, 1);
 
     await CreateCsv(startingDate, endDate, $"{Directory.GetCurrentDirectory()}\\trainingData.csv");
 }
@@ -41,7 +41,7 @@ async Task CreateCsv(DateTime startingDate, DateTime endDate, string path)
     while (startingDate.Date <= endDate.Date)
     {
         startingDate = startingDate.AddDays(8);
-        var result = await client!.GetAsync($"/api/marketdata/page/53?currency=,EUR,EUR,EUR&endDate={startingDate:dd-MM-yyyy}");
+        var result = await client.GetAsync($"/api/marketdata/page/53?currency=,EUR,EUR,EUR&endDate={startingDate:dd-MM-yyyy}");
 
         if (!result.IsSuccessStatusCode)
         {

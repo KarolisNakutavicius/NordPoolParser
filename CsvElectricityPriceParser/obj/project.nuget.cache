@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GnP524aSYxoUzfMZKRB2xaKMTaHq2z9Lm+CnrUcXO50ZBvUgPwknfSwa/EJx9iwGUKGso6zzqWd4IlMqmWnnwQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\karol\\personal\\NordPoolParser\\CsvElectricityPriceParser\\CsvElectricityPriceParser.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\karol\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
